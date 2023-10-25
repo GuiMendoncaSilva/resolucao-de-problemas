@@ -7,6 +7,7 @@ public class Personagem : MonoBehaviour
 {
     // Start is called before the first frame update
     [SerializeField] private Image animalImage;
+    public string nome;
     void Start()
     {
         
