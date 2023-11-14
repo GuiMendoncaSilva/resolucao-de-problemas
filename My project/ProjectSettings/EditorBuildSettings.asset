@@ -6,13 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SelectAnimalScene.unity
-    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/MainScene.unity
-    guid: ff2b1e16edf902a469ad362ea6ad167f
-  m_configObjects:
-    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 059e3f3caf2df8141976843520f0d095, type: 2}
-    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: e3f17a873edc76849aceeffc3e8ccdaa, type: 2}
-    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: e07c141f781ed9c43b2d73dd6cb57d66, type: 2}
-    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: e84e947ef1aa3d44c846f003f4a7ec58, type: 2}
+    path: Assets/Scenes/MainGame.unity
+    guid: f6f6b372487c8644aa6a5e36c934d9af
+  - enabled: 1
+    path: Assets/Scenes/SelectionCharacter.unity
+    guid: a0a7d39cdd77cc84da0c24f86e4bfdd3
+  m_configObjects: {}

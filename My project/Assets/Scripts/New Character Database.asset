@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b13f897ccca11d644ba40d6c584d51ee, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Chicken
+    prefabToInstantiate: {fileID: 2773621069957939549, guid: 27286f095bde1734097b7adf9936a4d5, type: 3}
+  - characterName: Cat
+    prefabToInstantiate: {fileID: 6198551176496574590, guid: 720753a3643212d49a5e51758c0ef8f3, type: 3}
+  - characterName: Dog
+    prefabToInstantiate: {fileID: 440235619352081159, guid: 0420165f3b8b7df4fbb0ff3624d45904, type: 3}
